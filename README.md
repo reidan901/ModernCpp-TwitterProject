@@ -10,10 +10,10 @@ Through this project we learned:
 
 # Members
 
-Ailincai Andrei
-Barariu Claudiu
-Boicu Razvan
-Cimpianu Adrian
+- Ailincai Andrei
+- Barariu Claudiu
+- Boicu Razvan
+- Cimpianu Adrian
 
 # Project components
 
