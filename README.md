@@ -1,3 +1,4 @@
+![Colibri Logo](/images/colibri_logo.png)
 # ModernCpp-TwitterProject
 
 
