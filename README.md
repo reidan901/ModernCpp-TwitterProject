@@ -21,4 +21,4 @@ Through this project we learned to:
 * the server is able to handle multiple clients at once, we implemented it using a threadpool and every new connection is assigned to a worker thread
 
 
-Initial repo on bitbucket with commit history: bitbucket.org/runtimeterror9001/project/src/master/
+Initial repo with commit history on [Bitbucket](https://bitbucket.org/runtimeterror9001/project/src/master/).
